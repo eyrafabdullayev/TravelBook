@@ -10,7 +10,7 @@ And using normal click over the item which you want to see, you will redirect to
 
 ## Installation
 
-Using this commands you can get it:
+Using this command you can get it:
 
 git clone https://github.com/eyrafabdullayev/TravelBook.git
 
