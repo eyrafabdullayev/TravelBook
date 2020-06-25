@@ -16,7 +16,7 @@ git clone https://github.com/eyrafabdullayev/TravelBook.git
 
 ## About
 
-My purpose of builing this app is using all my knowladge over the kotlin. ( i am new in kotlin ) \n
-I used SQLite database for storing data and GPS provider, Location Service of Google to access the location of user. \n
+My purpose of builing this app is using all my knowladge over the kotlin. ( i am new in kotlin ) \
+I used SQLite database for storing data and GPS provider, Location Service of Google to access the location of user. \
 
 
